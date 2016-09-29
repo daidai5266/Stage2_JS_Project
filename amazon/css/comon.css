@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img { margin:0; padding:0; }
+
+
+
+fieldset, img button { border:none; }
+
+
+img{ border:0; display:block;}
+
+
+address, caption, cite, code, dfn, th, var { font-style:normal; font-weight:normal; }
+
+ul, ol { list-style:none; } 
+
+li{ list-style:none;}
+ 
+a{ text-decoration:none;}
+
+/*table{border-collapse:collapse; border-spacing:0;}*/
+
+
+/* float */
+.fl{ float:left;}
+.fr{ float:right;}
+
+
+.f12{ font-size:12px;}
+.f14{ font-size:14px;}
+
+
+.wrap{ width:1198px; margin:0 auto;}
+
